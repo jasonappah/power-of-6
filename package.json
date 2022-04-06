@@ -8,12 +8,16 @@
     "lint": "yarn eslint"
   },
   "dependencies": {
+    "@banana-dev/banana-dev": "^2.0.2",
     "next": "12.1.4",
+    "nprogress": "^0.2.0",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "water.css": "^2.1.1"
   },
   "devDependencies": {
     "@types/node": "16.11.26",
+    "@types/nprogress": "^0.2.0",
     "@types/react": "17.0.43",
     "eslint": "8.12.0",
     "eslint-config-next": "12.1.4",
